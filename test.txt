@@ -1,2 +1,7 @@
 salutt
+<<<<<<< HEAD
 1million
+=======
+
+nqsm
+>>>>>>> new
